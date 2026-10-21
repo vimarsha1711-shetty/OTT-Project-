@@ -1,0 +1,151 @@
+show_id,platform,type,title,country,release_year,date_added,rating,duration,genre
+OTT0001,Amazon Prime,TV Show,Family Story 001,United States,2002,"Jun 19, 2023",TV-MA,1 Seasons,Family
+OTT0002,Disney+ Hotstar,Movie,Comedy Story 002,Spain,2013,"Feb 18, 2016",TV-PG,105 min,Comedy
+OTT0003,Netflix,TV Show,Comedy Story 003,South Korea,2020,"Jan 19, 2025",R,5 Seasons,Comedy
+OTT0004,Amazon Prime,Movie,Action Story 004,United States,2017,"Jul 5, 2019",R,112 min,Action
+OTT0005,Netflix,Movie,Animation Story 005,United Kingdom,2003,"Nov 7, 2024",PG-13,148 min,Animation
+OTT0006,Netflix,Movie,Comedy Story 006,United States,2019,"Nov 18, 2022",TV-PG,138 min,Comedy
+OTT0007,Amazon Prime,Movie,Crime Story 007,Canada,2009,"Mar 23, 2018",TV-G,176 min,Crime
+OTT0008,Netflix,Movie,Documentary Story 008,Australia,2010,"May 20, 2026",TV-MA,132 min,Documentary
+OTT0009,Netflix,Movie,Thriller Story 009,Canada,2004,"Jan 22, 2022",TV-MA,128 min,Thriller
+OTT0010,Disney+ Hotstar,Movie,Romance Story 010,Canada,2022,"Aug 19, 2024",TV-G,151 min,Romance
+OTT0011,Amazon Prime,Movie,Comedy Story 011,Japan,2015,"Feb 2, 2026",PG,160 min,Comedy
+OTT0012,Disney+ Hotstar,Movie,Reality Story 012,Australia,2009,"Nov 12, 2026",TV-MA,124 min,Reality
+OTT0013,Amazon Prime,Movie,Reality Story 013,India,2015,"May 5, 2015",PG,102 min,Reality
+OTT0014,Netflix,Movie,Crime Story 014,India,2005,"Sep 9, 2022",TV-14,126 min,Crime
+OTT0015,Amazon Prime,TV Show,Documentary Story 015,Spain,2011,"Apr 5, 2025",TV-MA,4 Seasons,Documentary
+OTT0016,Netflix,Movie,Action Story 016,United States,2015,"May 10, 2024",TV-MA,98 min,Action
+OTT0017,Netflix,Movie,Romance Story 017,Canada,2004,"Oct 21, 2026",PG,140 min,Romance
+OTT0018,Disney+ Hotstar,Movie,Animation Story 018,Spain,2012,"Feb 16, 2021",PG,125 min,Animation
+OTT0019,Amazon Prime,Movie,Comedy Story 019,South Korea,2014,"Jun 20, 2017",TV-MA,89 min,Comedy
+OTT0020,Netflix,Movie,Thriller Story 020,India,2011,"Feb 28, 2024",TV-14,78 min,Thriller
+OTT0021,Disney+ Hotstar,Movie,Documentary Story 021,Canada,2019,"Feb 4, 2024",TV-G,135 min,Documentary
+OTT0022,Amazon Prime,TV Show,Crime Story 022,Australia,2015,"Mar 4, 2019",PG,1 Seasons,Crime
+OTT0023,Amazon Prime,TV Show,Crime Story 023,United Kingdom,2016,"Sep 12, 2016",TV-14,2 Seasons,Crime
+OTT0024,Disney+ Hotstar,Movie,Drama Story 024,Japan,2020,"Dec 28, 2026",PG-13,86 min,Drama
+OTT0025,Disney+ Hotstar,Movie,Thriller Story 025,Canada,2024,"Sep 25, 2024",R,143 min,Thriller
+OTT0026,Amazon Prime,Movie,Reality Story 026,South Korea,2025,"Jul 24, 2025",TV-G,179 min,Reality
+OTT0027,Netflix,Movie,Crime Story 027,Canada,2023,"May 16, 2023",PG-13,78 min,Crime
+OTT0028,Netflix,TV Show,Romance Story 028,Australia,2025,"Feb 8, 2026",TV-MA,3 Seasons,Romance
+OTT0029,Netflix,Movie,Romance Story 029,South Korea,2015,"Jan 16, 2024",PG,153 min,Romance
+OTT0030,Amazon Prime,TV Show,Comedy Story 030,India,2012,"Aug 6, 2026",TV-PG,2 Seasons,Comedy
+OTT0031,Disney+ Hotstar,Movie,Family Story 031,Australia,2012,"Dec 6, 2026",TV-14,85 min,Family
+OTT0032,Netflix,Movie,Reality Story 032,Australia,2025,"Oct 16, 2025",PG,153 min,Reality
+OTT0033,Amazon Prime,Movie,Animation Story 033,United Kingdom,2000,"Dec 21, 2015",TV-MA,177 min,Animation
+OTT0034,Disney+ Hotstar,TV Show,Thriller Story 034,Spain,2006,"May 7, 2018",PG-13,1 Seasons,Thriller
+OTT0035,Disney+ Hotstar,Movie,Reality Story 035,Canada,2008,"Mar 2, 2023",PG,128 min,Reality
+OTT0036,Amazon Prime,TV Show,Reality Story 036,Spain,2016,"Mar 17, 2018",R,5 Seasons,Reality
+OTT0037,Netflix,TV Show,Thriller Story 037,United States,2024,"Mar 16, 2024",R,2 Seasons,Thriller
+OTT0038,Disney+ Hotstar,Movie,Drama Story 038,Canada,2021,"Sep 16, 2025",TV-G,142 min,Drama
+OTT0039,Netflix,TV Show,Drama Story 039,South Korea,2006,"Feb 17, 2019",TV-PG,1 Seasons,Drama
+OTT0040,Disney+ Hotstar,Movie,Comedy Story 040,Australia,2010,"Oct 17, 2024",TV-14,139 min,Comedy
+OTT0041,Disney+ Hotstar,Movie,Animation Story 041,Australia,2016,"Sep 9, 2019",R,164 min,Animation
+OTT0042,Netflix,TV Show,Thriller Story 042,Spain,2003,"Jun 3, 2021",PG,4 Seasons,Thriller
+OTT0043,Netflix,Movie,Action Story 043,Japan,2025,"Mar 23, 2025",PG,174 min,Action
+OTT0044,Disney+ Hotstar,Movie,Documentary Story 044,United Kingdom,2014,"Feb 13, 2018",TV-PG,170 min,Documentary
+OTT0045,Netflix,TV Show,Action Story 045,United Kingdom,2022,"Jul 11, 2025",TV-PG,5 Seasons,Action
+OTT0046,Netflix,Movie,Comedy Story 046,Canada,2000,"Aug 15, 2020",PG,145 min,Comedy
+OTT0047,Netflix,Movie,Animation Story 047,Japan,2016,"Apr 4, 2017",TV-MA,89 min,Animation
+OTT0048,Amazon Prime,Movie,Thriller Story 048,Japan,2024,"Jul 28, 2024",PG,179 min,Thriller
+OTT0049,Amazon Prime,Movie,Animation Story 049,Australia,2022,"May 2, 2024",TV-G,86 min,Animation
+OTT0050,Disney+ Hotstar,Movie,Comedy Story 050,Japan,2000,"May 3, 2025",R,86 min,Comedy
+OTT0051,Netflix,Movie,Comedy Story 051,Australia,2000,"Jul 9, 2020",R,145 min,Comedy
+OTT0052,Netflix,Movie,Action Story 052,India,2005,"Mar 7, 2019",PG-13,81 min,Action
+OTT0053,Disney+ Hotstar,Movie,Action Story 053,Japan,2014,"Mar 9, 2023",PG-13,161 min,Action
+OTT0054,Netflix,TV Show,Drama Story 054,United States,2000,"Sep 7, 2026",R,5 Seasons,Drama
+OTT0055,Amazon Prime,Movie,Crime Story 055,India,2021,"Nov 16, 2026",R,130 min,Crime
+OTT0056,Amazon Prime,TV Show,Documentary Story 056,South Korea,2007,"Dec 24, 2020",PG,2 Seasons,Documentary
+OTT0057,Netflix,Movie,Romance Story 057,United States,2004,"Nov 24, 2015",PG-13,84 min,Romance
+OTT0058,Amazon Prime,Movie,Comedy Story 058,Spain,2016,"Oct 8, 2026",PG,111 min,Comedy
+OTT0059,Amazon Prime,Movie,Thriller Story 059,United Kingdom,2008,"May 12, 2022",PG-13,75 min,Thriller
+OTT0060,Disney+ Hotstar,Movie,Drama Story 060,Japan,2006,"Jan 11, 2020",TV-PG,98 min,Drama
+OTT0061,Netflix,Movie,Animation Story 061,South Korea,2007,"Jan 3, 2023",PG-13,174 min,Animation
+OTT0062,Netflix,Movie,Reality Story 062,United States,2012,"May 21, 2015",TV-14,113 min,Reality
+OTT0063,Netflix,Movie,Animation Story 063,United Kingdom,2021,"Oct 13, 2026",TV-G,175 min,Animation
+OTT0064,Amazon Prime,TV Show,Crime Story 064,United Kingdom,2009,"Nov 5, 2026",TV-MA,5 Seasons,Crime
+OTT0065,Disney+ Hotstar,TV Show,Family Story 065,United Kingdom,2016,"Jan 27, 2024",PG,5 Seasons,Family
+OTT0066,Disney+ Hotstar,TV Show,Action Story 066,India,2000,"Nov 12, 2015",TV-MA,2 Seasons,Action
+OTT0067,Amazon Prime,TV Show,Animation Story 067,United States,2020,"Sep 22, 2020",TV-14,6 Seasons,Animation
+OTT0068,Amazon Prime,Movie,Crime Story 068,India,2023,"Sep 3, 2023",PG,159 min,Crime
+OTT0069,Disney+ Hotstar,Movie,Comedy Story 069,Japan,2007,"Apr 8, 2026",PG,171 min,Comedy
+OTT0070,Disney+ Hotstar,TV Show,Crime Story 070,Spain,2002,"May 25, 2022",TV-MA,6 Seasons,Crime
+OTT0071,Disney+ Hotstar,Movie,Action Story 071,India,2019,"May 21, 2021",PG,117 min,Action
+OTT0072,Disney+ Hotstar,Movie,Reality Story 072,United Kingdom,2000,"Aug 9, 2022",PG,82 min,Reality
+OTT0073,Netflix,TV Show,Crime Story 073,Japan,2022,"Aug 15, 2026",TV-PG,3 Seasons,Crime
+OTT0074,Netflix,TV Show,Animation Story 074,South Korea,2009,"Jan 10, 2016",TV-PG,4 Seasons,Animation
+OTT0075,Netflix,TV Show,Crime Story 075,Japan,2012,"Feb 19, 2018",TV-MA,2 Seasons,Crime
+OTT0076,Netflix,TV Show,Documentary Story 076,Canada,2004,"Sep 9, 2024",TV-MA,6 Seasons,Documentary
+OTT0077,Disney+ Hotstar,Movie,Crime Story 077,Australia,2012,"Jan 16, 2015",PG,95 min,Crime
+OTT0078,Amazon Prime,Movie,Thriller Story 078,Spain,2011,"Feb 27, 2021",PG-13,115 min,Thriller
+OTT0079,Netflix,Movie,Romance Story 079,Spain,2003,"Jan 24, 2018",PG-13,166 min,Romance
+OTT0080,Amazon Prime,Movie,Family Story 080,Spain,2018,"Jul 25, 2019",PG-13,121 min,Family
+OTT0081,Netflix,Movie,Drama Story 081,Japan,2020,"May 14, 2021",R,106 min,Drama
+OTT0082,Amazon Prime,Movie,Romance Story 082,Spain,2000,"Sep 18, 2025",TV-14,126 min,Romance
+OTT0083,Disney+ Hotstar,Movie,Family Story 083,Australia,2019,"May 16, 2021",TV-MA,157 min,Family
+OTT0084,Disney+ Hotstar,Movie,Crime Story 084,Spain,2010,"May 24, 2019",PG,113 min,Crime
+OTT0085,Disney+ Hotstar,Movie,Action Story 085,Japan,2015,"Jul 4, 2023",TV-14,160 min,Action
+OTT0086,Disney+ Hotstar,Movie,Action Story 086,Australia,2017,"Jun 25, 2020",TV-PG,132 min,Action
+OTT0087,Amazon Prime,Movie,Action Story 087,South Korea,2002,"Sep 3, 2017",PG-13,118 min,Action
+OTT0088,Netflix,Movie,Reality Story 088,South Korea,2000,"Jul 14, 2026",PG,127 min,Reality
+OTT0089,Disney+ Hotstar,Movie,Documentary Story 089,Canada,2024,"May 19, 2024",PG-13,138 min,Documentary
+OTT0090,Netflix,TV Show,Animation Story 090,South Korea,2002,"Jul 13, 2019",PG,2 Seasons,Animation
+OTT0091,Amazon Prime,Movie,Documentary Story 091,United States,2004,"Dec 25, 2015",TV-G,129 min,Documentary
+OTT0092,Amazon Prime,TV Show,Crime Story 092,United States,2002,"Aug 15, 2021",TV-14,5 Seasons,Crime
+OTT0093,Netflix,Movie,Thriller Story 093,India,2023,"Sep 25, 2026",TV-MA,85 min,Thriller
+OTT0094,Netflix,TV Show,Action Story 094,United States,2020,"Mar 21, 2025",PG-13,3 Seasons,Action
+OTT0095,Disney+ Hotstar,Movie,Comedy Story 095,India,2002,"Oct 7, 2019",TV-PG,142 min,Comedy
+OTT0096,Amazon Prime,Movie,Reality Story 096,United States,2000,"Aug 9, 2023",PG-13,113 min,Reality
+OTT0097,Disney+ Hotstar,TV Show,Action Story 097,Australia,2016,"Apr 1, 2019",TV-PG,5 Seasons,Action
+OTT0098,Disney+ Hotstar,Movie,Drama Story 098,United States,2006,"Nov 14, 2022",TV-MA,161 min,Drama
+OTT0099,Amazon Prime,Movie,Family Story 099,Canada,2007,"Dec 11, 2022",PG,79 min,Family
+OTT0100,Amazon Prime,Movie,Family Story 100,South Korea,2000,"Sep 3, 2019",TV-14,169 min,Family
+OTT0101,Amazon Prime,TV Show,Documentary Story 101,South Korea,2007,"May 25, 2022",PG-13,2 Seasons,Documentary
+OTT0102,Netflix,TV Show,Crime Story 102,United Kingdom,2007,"Nov 2, 2022",R,4 Seasons,Crime
+OTT0103,Netflix,TV Show,Drama Story 103,South Korea,2000,"Jul 2, 2024",PG,2 Seasons,Drama
+OTT0104,Netflix,Movie,Crime Story 104,Canada,2023,"Mar 11, 2023",TV-14,85 min,Crime
+OTT0105,Netflix,Movie,Animation Story 105,Australia,2001,"Dec 13, 2019",TV-G,160 min,Animation
+OTT0106,Amazon Prime,TV Show,Crime Story 106,United Kingdom,2003,"May 3, 2015",PG-13,1 Seasons,Crime
+OTT0107,Amazon Prime,TV Show,Comedy Story 107,South Korea,2012,"Jul 3, 2020",TV-MA,3 Seasons,Comedy
+OTT0108,Disney+ Hotstar,Movie,Romance Story 108,Australia,2006,"Dec 16, 2020",TV-MA,121 min,Romance
+OTT0109,Disney+ Hotstar,Movie,Family Story 109,United States,2012,"Feb 26, 2015",TV-MA,134 min,Family
+OTT0110,Amazon Prime,Movie,Comedy Story 110,Canada,2011,"Oct 2, 2019",PG-13,117 min,Comedy
+OTT0111,Disney+ Hotstar,TV Show,Romance Story 111,Japan,2009,"Oct 26, 2015",PG,6 Seasons,Romance
+OTT0112,Netflix,Movie,Action Story 112,India,2015,"Jul 26, 2026",PG-13,134 min,Action
+OTT0113,Amazon Prime,TV Show,Thriller Story 113,Australia,2005,"May 27, 2015",PG,6 Seasons,Thriller
+OTT0114,Netflix,Movie,Romance Story 114,Canada,2014,"Oct 3, 2020",R,175 min,Romance
+OTT0115,Netflix,Movie,Thriller Story 115,South Korea,2013,"Jan 16, 2016",R,158 min,Thriller
+OTT0116,Disney+ Hotstar,Movie,Family Story 116,India,2002,"Feb 7, 2019",TV-MA,154 min,Family
+OTT0117,Amazon Prime,Movie,Crime Story 117,United Kingdom,2007,"Aug 20, 2017",PG,128 min,Crime
+OTT0118,Netflix,TV Show,Comedy Story 118,Japan,2009,"May 12, 2019",PG-13,5 Seasons,Comedy
+OTT0119,Disney+ Hotstar,Movie,Crime Story 119,South Korea,2005,"Mar 10, 2018",R,105 min,Crime
+OTT0120,Netflix,Movie,Family Story 120,Japan,2007,"Apr 21, 2023",TV-G,142 min,Family
+OTT0121,Netflix,Movie,Drama Story 121,India,2000,"Apr 27, 2022",TV-PG,179 min,Drama
+OTT0122,Amazon Prime,Movie,Documentary Story 122,South Korea,2003,"Oct 27, 2015",R,99 min,Documentary
+OTT0123,Netflix,TV Show,Romance Story 123,United Kingdom,2014,"Nov 1, 2024",TV-MA,3 Seasons,Romance
+OTT0124,Disney+ Hotstar,Movie,Reality Story 124,Canada,2006,"Jun 5, 2015",TV-MA,122 min,Reality
+OTT0125,Netflix,TV Show,Drama Story 125,South Korea,2000,"Nov 12, 2020",TV-14,4 Seasons,Drama
+OTT0126,Disney+ Hotstar,Movie,Action Story 126,United States,2025,"Aug 3, 2026",TV-PG,145 min,Action
+OTT0127,Netflix,TV Show,Animation Story 127,United Kingdom,2020,"Nov 6, 2024",TV-PG,1 Seasons,Animation
+OTT0128,Disney+ Hotstar,Movie,Documentary Story 128,Japan,2013,"Dec 19, 2015",PG-13,114 min,Documentary
+OTT0129,Amazon Prime,Movie,Romance Story 129,South Korea,2012,"Apr 1, 2026",TV-PG,126 min,Romance
+OTT0130,Netflix,Movie,Comedy Story 130,Spain,2018,"Mar 5, 2023",TV-MA,133 min,Comedy
+OTT0131,Netflix,Movie,Family Story 131,India,2018,"Sep 6, 2023",TV-14,169 min,Family
+OTT0132,Amazon Prime,Movie,Animation Story 132,United Kingdom,2002,"Aug 25, 2016",TV-G,124 min,Animation
+OTT0133,Netflix,Movie,Drama Story 133,Australia,2010,"Nov 13, 2015",TV-MA,152 min,Drama
+OTT0134,Disney+ Hotstar,Movie,Thriller Story 134,South Korea,2019,"Apr 27, 2025",TV-PG,153 min,Thriller
+OTT0135,Netflix,Movie,Drama Story 135,Spain,2016,"Jun 4, 2018",TV-14,124 min,Drama
+OTT0136,Netflix,TV Show,Action Story 136,United States,2017,"Jun 4, 2017",TV-PG,6 Seasons,Action
+OTT0137,Disney+ Hotstar,Movie,Documentary Story 137,Spain,2009,"Jul 13, 2024",PG,106 min,Documentary
+OTT0138,Amazon Prime,Movie,Crime Story 138,United Kingdom,2000,"Aug 15, 2015",TV-14,154 min,Crime
+OTT0139,Amazon Prime,TV Show,Crime Story 139,United Kingdom,2025,"Feb 3, 2026",TV-14,4 Seasons,Crime
+OTT0140,Amazon Prime,Movie,Comedy Story 140,Australia,2016,"Jan 2, 2024",PG,159 min,Comedy
+OTT0141,Netflix,Movie,Romance Story 141,India,2001,"Nov 26, 2023",TV-14,123 min,Romance
+OTT0142,Netflix,TV Show,Reality Story 142,India,2006,"May 26, 2017",TV-G,4 Seasons,Reality
+OTT0143,Netflix,TV Show,Action Story 143,India,2011,"Mar 11, 2024",R,3 Seasons,Action
+OTT0144,Amazon Prime,TV Show,Crime Story 144,United Kingdom,2008,"Apr 19, 2023",PG-13,4 Seasons,Crime
+OTT0145,Disney+ Hotstar,Movie,Romance Story 145,Canada,2001,"Jul 6, 2018",PG,98 min,Romance
+OTT0146,Amazon Prime,TV Show,Family Story 146,United Kingdom,2025,"Sep 2, 2026",PG,1 Seasons,Family
+OTT0147,Amazon Prime,TV Show,Crime Story 147,India,2008,"Jul 24, 2023",TV-G,6 Seasons,Crime
+OTT0148,Amazon Prime,Movie,Romance Story 148,United Kingdom,2011,"Feb 15, 2020",TV-14,172 min,Romance
+OTT0149,Netflix,Movie,Drama Story 149,Japan,2016,"Nov 28, 2020",R,114 min,Drama
+OTT0150,Disney+ Hotstar,TV Show,Drama Story 150,United States,2007,"Oct 21, 2017",TV-PG,3 Seasons,Drama
